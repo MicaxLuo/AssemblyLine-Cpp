@@ -1,12 +1,4 @@
-// Course: 				OOP345 NDE
-// Final Project:      	Milestone 3
-// Name: 				Xiaomin (Mica) Luo
-// Seneca Student ID:   133728170
-// Seneca email: 		xluo42@myseneca.ca
-// Date of completion:  Dec.1, 2019
-//
-// I confirm that the content of this file is created by me,
-//   with the exception of the parts provided to me by my professor.
+
 #ifndef LINEMANAGER_H
 #define LINEMANAGER_H
 
